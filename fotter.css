@@ -1,0 +1,61 @@
+ooter{
+	background:url("fotter.jpg");
+    height: 71.5vh;
+    padding: 70px 0;
+}
+footer h3{
+    color: #fff;
+    font-size: 25px;
+    text-decoration: none;
+}
+footer .num h3{
+    font-size: 25px;
+    text-decoration: none;
+    color: #abb7c4;
+}
+footer .num h3:hover a{
+    color: #abb7c4;
+}
+footer p{
+    color: #abb7c4;
+    font-size: 18px;
+}
+
+.phone{
+	color: #abb7c4;
+}
+footer ul{
+    font-size: 17px;
+}
+footer ul a{
+	color: #abb7c4;
+}
+footer input{
+    background-color: transparent;
+    border: 1px solid #405266;
+    width: 100%;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    padding: 3px;
+    background: url('../images/4.png') no-repeat right 20px center;
+}
+footer ul li:hover a{
+    color: #abb7c4;
+}
+footer form a{
+    color: #dd003f;
+    font-size: 23px;
+    text-decoration: none;
+}
+footer form a:hover{
+    color: #dd003f;
+}
+.end{
+	background-color: #020d18;
+	text-align: center;
+	padding: 20px 0 10px 0 ;
+    color: #fff;
+    border-bottom: 1px solid #233a50;
+    border-top: 1px solid #233a50;
+    opacity: 0.7;
+}
